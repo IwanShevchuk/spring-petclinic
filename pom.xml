@@ -3,12 +3,12 @@
   xmlns="http://maven.apache.org/POM/4.0.0"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.springframework.samples</groupId>
-  <artifactId>spring-petclinic</artifactId>
+  <groupId>com.epamlabs.shevchuk</groupId>
+  <artifactId>demo4_spring-petclinic</artifactId>
   <version>2.1.0.BUILD-SNAPSHOT</version>
 
   <parent>
-    <groupId>com.epamlabs.shevchuk.demo4</groupId>
+    <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>2.1.9.RELEASE</version>
   </parent>
