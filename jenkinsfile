@@ -6,7 +6,7 @@ node {
     def buildInfo
 
     stage('Clone sources') {
-        git url: 'https://github.com/spring-projects/spring-petclinic.git'
+        git url: 'https://github.com/IwanShevchuk/spring-petclinic.git' 
     }
 
     stage('Artifactory configuration') {
